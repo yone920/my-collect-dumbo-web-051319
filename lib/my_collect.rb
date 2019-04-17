@@ -10,6 +10,6 @@ def my_collect(array)
     end
     
  new_array
- binding.pry
+ 
 end
 
